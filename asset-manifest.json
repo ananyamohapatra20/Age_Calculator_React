@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https.//ananyamohapatra20.github.io/Age_Calculator_React/static/css/main.5afd422e.css",
+    "main.js": "/https.//ananyamohapatra20.github.io/Age_Calculator_React/static/js/main.de98f380.js",
+    "index.html": "/https.//ananyamohapatra20.github.io/Age_Calculator_React/index.html",
+    "main.5afd422e.css.map": "/https.//ananyamohapatra20.github.io/Age_Calculator_React/static/css/main.5afd422e.css.map",
+    "main.de98f380.js.map": "/https.//ananyamohapatra20.github.io/Age_Calculator_React/static/js/main.de98f380.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5afd422e.css",
+    "static/js/main.de98f380.js"
+  ]
+}
